@@ -1,0 +1,5 @@
+D:\Claret.Nahuel\Ejercicio_guia_3\bin\Debug\Ejercicio_guia_3.exe.config
+D:\Claret.Nahuel\Ejercicio_guia_3\bin\Debug\Ejercicio_guia_3.exe
+D:\Claret.Nahuel\Ejercicio_guia_3\bin\Debug\Ejercicio_guia_3.pdb
+D:\Claret.Nahuel\Ejercicio_guia_3\obj\Debug\Ejercicio_guia_3.exe
+D:\Claret.Nahuel\Ejercicio_guia_3\obj\Debug\Ejercicio_guia_3.pdb

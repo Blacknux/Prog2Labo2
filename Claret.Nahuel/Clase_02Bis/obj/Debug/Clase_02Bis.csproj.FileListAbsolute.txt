@@ -1,0 +1,6 @@
+C:\Users\Knux\Desktop\Claret.Nahuel\Clase_02Bis\bin\Debug\Clase_02Bis.exe.config
+C:\Users\Knux\Desktop\Claret.Nahuel\Clase_02Bis\bin\Debug\Clase_02Bis.exe
+C:\Users\Knux\Desktop\Claret.Nahuel\Clase_02Bis\bin\Debug\Clase_02Bis.pdb
+C:\Users\Knux\Desktop\Claret.Nahuel\Clase_02Bis\obj\Debug\Clase_02Bis.csprojResolveAssemblyReference.cache
+C:\Users\Knux\Desktop\Claret.Nahuel\Clase_02Bis\obj\Debug\Clase_02Bis.exe
+C:\Users\Knux\Desktop\Claret.Nahuel\Clase_02Bis\obj\Debug\Clase_02Bis.pdb

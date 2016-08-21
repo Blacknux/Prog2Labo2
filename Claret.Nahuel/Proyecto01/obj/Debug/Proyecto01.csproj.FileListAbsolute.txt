@@ -1,0 +1,12 @@
+E:\UTN\Programacion 2\Claret.Nahuel\Proyecto01\bin\Debug\Proyecto01.exe.config
+E:\UTN\Programacion 2\Claret.Nahuel\Proyecto01\obj\Debug\Proyecto01.csprojResolveAssemblyReference.cache
+E:\UTN\Programacion 2\Claret.Nahuel\Proyecto01\bin\Debug\Proyecto01.exe
+E:\UTN\Programacion 2\Claret.Nahuel\Proyecto01\bin\Debug\Proyecto01.pdb
+E:\UTN\Programacion 2\Claret.Nahuel\Proyecto01\obj\Debug\Proyecto01.exe
+E:\UTN\Programacion 2\Claret.Nahuel\Proyecto01\obj\Debug\Proyecto01.pdb
+D:\Claret.Nahuel\Proyecto01\bin\Debug\Proyecto01.exe.config
+D:\Claret.Nahuel\Proyecto01\obj\Debug\Proyecto01.exe
+D:\Claret.Nahuel\Proyecto01\obj\Debug\Proyecto01.pdb
+D:\Claret.Nahuel\Proyecto01\bin\Debug\Proyecto01.exe
+D:\Claret.Nahuel\Proyecto01\bin\Debug\Proyecto01.pdb
+D:\Claret.Nahuel\Proyecto01\obj\Debug\Proyecto01.csprojResolveAssemblyReference.cache
