@@ -1,0 +1,6 @@
+C:\Users\Knux\Documents\UTNFRA\Prog2Labo2\Claret.Nahuel\DecToBinToDec\bin\Debug\DecToBinToDec.exe.config
+C:\Users\Knux\Documents\UTNFRA\Prog2Labo2\Claret.Nahuel\DecToBinToDec\bin\Debug\DecToBinToDec.exe
+C:\Users\Knux\Documents\UTNFRA\Prog2Labo2\Claret.Nahuel\DecToBinToDec\bin\Debug\DecToBinToDec.pdb
+C:\Users\Knux\Documents\UTNFRA\Prog2Labo2\Claret.Nahuel\DecToBinToDec\obj\Debug\DecToBinToDec.csprojResolveAssemblyReference.cache
+C:\Users\Knux\Documents\UTNFRA\Prog2Labo2\Claret.Nahuel\DecToBinToDec\obj\Debug\DecToBinToDec.exe
+C:\Users\Knux\Documents\UTNFRA\Prog2Labo2\Claret.Nahuel\DecToBinToDec\obj\Debug\DecToBinToDec.pdb
