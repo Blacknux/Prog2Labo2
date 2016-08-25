@@ -1,0 +1,6 @@
+D:\Claret\Prog2Labo2\Claret.Nahuel\Clase3\bin\Debug\Clase3.exe.config
+D:\Claret\Prog2Labo2\Claret.Nahuel\Clase3\bin\Debug\Clase3.exe
+D:\Claret\Prog2Labo2\Claret.Nahuel\Clase3\bin\Debug\Clase3.pdb
+D:\Claret\Prog2Labo2\Claret.Nahuel\Clase3\obj\Debug\Clase3.csprojResolveAssemblyReference.cache
+D:\Claret\Prog2Labo2\Claret.Nahuel\Clase3\obj\Debug\Clase3.exe
+D:\Claret\Prog2Labo2\Claret.Nahuel\Clase3\obj\Debug\Clase3.pdb
