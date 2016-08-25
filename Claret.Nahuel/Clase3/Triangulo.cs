@@ -44,6 +44,7 @@ namespace Clase3
                 for (int j = 0; j < triang.baseT; j++)
                 {
                     Console.Write("*");
+
                 }
                 Console.WriteLine("\n");
             }
