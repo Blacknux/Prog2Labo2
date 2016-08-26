@@ -13,3 +13,6 @@ C:\Users\Knux\Desktop\Claret.Nahuel\Clase_02\obj\Debug\Clase_02.pdb
 C:\Users\Knux\Desktop\Claret.Nahuel\Clase_02\bin\Debug\Clase_02.exe
 C:\Users\Knux\Desktop\Claret.Nahuel\Clase_02\bin\Debug\Clase_02.pdb
 C:\Users\Knux\Desktop\Claret.Nahuel\Clase_02\obj\Debug\Clase_02.csprojResolveAssemblyReference.cache
+D:\Claret\Prog2Labo2\Claret.Nahuel\Clase_02\bin\Debug\Clase_02.exe.config
+D:\Claret\Prog2Labo2\Claret.Nahuel\Clase_02\obj\Debug\Clase_02.exe
+D:\Claret\Prog2Labo2\Claret.Nahuel\Clase_02\obj\Debug\Clase_02.pdb
