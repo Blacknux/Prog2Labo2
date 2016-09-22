@@ -65,22 +65,22 @@ namespace Manualidades
             return returnMessage;
         }
 
-        //private static bool TryParse(string aValidar, out string mensaje )
-        //{
-        //    bool returnBool=false;
-        //    if (!string.IsNullOrEmpty(aValidar) && !string.IsNullOrWhiteSpace(aValidar) )
-        //    {
-        //        returnBool = true;
-        //        mensaje = aValidar;
+        private static bool TryParse(string aValidar, out string mensaje)
+        {
+            bool returnBool = false;
+            if (!string.IsNullOrEmpty(aValidar) && !string.IsNullOrWhiteSpace(aValidar))
+            {
+                returnBool = true;
+                mensaje = aValidar;
 
-        //    }
-        //    else
-        //    {
-        //        mensaje = null;
-        //    }
+            }
+            else
+            {
+                mensaje = null;
+            }
 
-        //    return returnBool;
-        //}
+            return returnBool;
+        }
         
     }
 }

@@ -1,0 +1,5 @@
+D:\Claret\Claret.Nahuel\Clase09\ClassLibraryLavadero\bin\Debug\ClassLibrary2.dll
+D:\Claret\Claret.Nahuel\Clase09\ClassLibraryLavadero\bin\Debug\ClassLibrary2.pdb
+D:\Claret\Claret.Nahuel\Clase09\ClassLibraryLavadero\obj\Debug\ClassLibraryLavadero.csprojResolveAssemblyReference.cache
+D:\Claret\Claret.Nahuel\Clase09\ClassLibraryLavadero\obj\Debug\ClassLibrary2.dll
+D:\Claret\Claret.Nahuel\Clase09\ClassLibraryLavadero\obj\Debug\ClassLibrary2.pdb
