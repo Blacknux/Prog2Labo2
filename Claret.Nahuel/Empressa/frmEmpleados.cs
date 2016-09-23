@@ -12,12 +12,12 @@ namespace Empressa
 {
     public partial class frmEmpleados : Form
     {
-      //  Empresa Emp1;
+       Empresa _empresaEmpleados;
         
         
-        public frmEmpleados(Empresa E1)
+        public frmEmpleados()
         {
-            Empresa empresa = E1;
+            
             InitializeComponent();
             this.cmbPuesto.DataSource = Enum.GetValues(typeof(EPuestoJerarquico));
         }
@@ -30,6 +30,17 @@ namespace Empressa
             this.mtxtSalario.Text = "";
             this.cmbPuesto.SelectedIndex=-1;
 
+        }
+
+        private void btnEmpresa_Click(object sender, EventArgs e)
+        {
+            frmEmpresa formEmpres = new frmEmpresa(this._empresaEmpleados);
+            formEmpres.ShowDialog();
+            if( formEmpres.DialogResult == System.Windows.Forms.DialogResult.OK)
+            {
+                this._empresaEmpleados=formEmpres.empresa;
+            }
+            this.Close();
         }
 
         

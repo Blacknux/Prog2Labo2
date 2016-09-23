@@ -10,7 +10,6 @@ namespace ClassLibraryLavadero
     {
         List<Vehiculo> _vehiculos;
 
-        //public List<Vehiculo> Vehiculos { get { return this._vehiculos;} }
         float _precioAuto;
         float _precioCamion;
         float _precioMoto;

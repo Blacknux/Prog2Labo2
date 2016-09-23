@@ -135,6 +135,7 @@
             this.btnEmpresa.TabIndex = 10;
             this.btnEmpresa.Text = "&Empresa";
             this.btnEmpresa.UseVisualStyleBackColor = true;
+            this.btnEmpresa.Click += new System.EventHandler(this.btnEmpresa_Click);
             // 
             // btnLimpiarForm
             // 

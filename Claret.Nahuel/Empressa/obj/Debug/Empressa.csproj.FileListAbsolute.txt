@@ -1,0 +1,12 @@
+D:\Claret\Prog2Labo2\Claret.Nahuel\Empressa\bin\Debug\Empressa.exe.config
+D:\Claret\Prog2Labo2\Claret.Nahuel\Empressa\bin\Debug\Empressa.exe
+D:\Claret\Prog2Labo2\Claret.Nahuel\Empressa\bin\Debug\Empressa.pdb
+D:\Claret\Prog2Labo2\Claret.Nahuel\Empressa\bin\Debug\ClassLibrary1.dll
+D:\Claret\Prog2Labo2\Claret.Nahuel\Empressa\bin\Debug\ClassLibrary1.pdb
+D:\Claret\Prog2Labo2\Claret.Nahuel\Empressa\obj\Debug\Empressa.csprojResolveAssemblyReference.cache
+D:\Claret\Prog2Labo2\Claret.Nahuel\Empressa\obj\Debug\Empressa.frmEmpleados.resources
+D:\Claret\Prog2Labo2\Claret.Nahuel\Empressa\obj\Debug\Empressa.frmEmpresa.resources
+D:\Claret\Prog2Labo2\Claret.Nahuel\Empressa\obj\Debug\Empressa.Properties.Resources.resources
+D:\Claret\Prog2Labo2\Claret.Nahuel\Empressa\obj\Debug\Empressa.csproj.GenerateResource.Cache
+D:\Claret\Prog2Labo2\Claret.Nahuel\Empressa\obj\Debug\Empressa.exe
+D:\Claret\Prog2Labo2\Claret.Nahuel\Empressa\obj\Debug\Empressa.pdb

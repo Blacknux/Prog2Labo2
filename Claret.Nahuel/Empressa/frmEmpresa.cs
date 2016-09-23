@@ -43,12 +43,13 @@ namespace Empressa
                     this.empresa = new Empresa(this.txtRazonSocial.Text, this.txtDireccion.Text,float.Parse(this.mtxtGanancias.Text.Replace('.', ',').Substring(1, this.mtxtGanancias.Text.Length - 1) ));
                    
             }
-            Form frmEmple = new frmEmpleados(empresa);
-            this.Hide();
-            frmEmple.ShowDialog();
-
+            
+            //Form frmEmple = new frmEmpleados(empresa);
+            //this.Hide();
+            //frmEmple.ShowDialog();
+            this.DialogResult = System.Windows.Forms.DialogResult.OK;
             //frmEmple.Show();
-            //this.Close();
+            this.Close();
                     
                  
 
