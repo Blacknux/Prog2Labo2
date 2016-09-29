@@ -9,3 +9,8 @@ D:\Claret\Claret.Nahuel\Clase09\ImplemantacionLavadero\obj\Debug\Prueba compares
 D:\Claret\Prog2Labo2\Claret.Nahuel\Clase09\ImplemantacionLavadero\bin\Debug\Prueba comparestrings.exe.config
 D:\Claret\Prog2Labo2\Claret.Nahuel\Clase09\ImplemantacionLavadero\obj\Debug\Prueba comparestrings.exe
 D:\Claret\Prog2Labo2\Claret.Nahuel\Clase09\ImplemantacionLavadero\obj\Debug\Prueba comparestrings.pdb
+D:\Claret\prog2labo2\Claret.Nahuel\Clase09\ImplemantacionLavadero\bin\Debug\Prueba comparestrings.exe
+D:\Claret\prog2labo2\Claret.Nahuel\Clase09\ImplemantacionLavadero\bin\Debug\Prueba comparestrings.pdb
+D:\Claret\prog2labo2\Claret.Nahuel\Clase09\ImplemantacionLavadero\bin\Debug\ClassLibrary2.dll
+D:\Claret\prog2labo2\Claret.Nahuel\Clase09\ImplemantacionLavadero\bin\Debug\ClassLibrary2.pdb
+D:\Claret\prog2labo2\Claret.Nahuel\Clase09\ImplemantacionLavadero\obj\Debug\ImplementacionLavadero.csprojResolveAssemblyReference.cache
