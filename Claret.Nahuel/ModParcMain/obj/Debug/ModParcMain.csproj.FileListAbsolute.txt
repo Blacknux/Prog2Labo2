@@ -1,0 +1,8 @@
+D:\Claret\prog2labo2\Claret.Nahuel\ModParcMain\obj\Debug\ModParcMain.csprojResolveAssemblyReference.cache
+D:\Claret\prog2labo2\Claret.Nahuel\ModParcMain\bin\Debug\ModParcMain.exe.config
+D:\Claret\prog2labo2\Claret.Nahuel\ModParcMain\bin\Debug\ModParcMain.exe
+D:\Claret\prog2labo2\Claret.Nahuel\ModParcMain\bin\Debug\ModParcMain.pdb
+D:\Claret\prog2labo2\Claret.Nahuel\ModParcMain\bin\Debug\ModeloParcial.dll
+D:\Claret\prog2labo2\Claret.Nahuel\ModParcMain\bin\Debug\ModeloParcial.pdb
+D:\Claret\prog2labo2\Claret.Nahuel\ModParcMain\obj\Debug\ModParcMain.exe
+D:\Claret\prog2labo2\Claret.Nahuel\ModParcMain\obj\Debug\ModParcMain.pdb

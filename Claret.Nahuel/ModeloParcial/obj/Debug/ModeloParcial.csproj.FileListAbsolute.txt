@@ -1,0 +1,4 @@
+D:\Claret\prog2labo2\Claret.Nahuel\ModeloParcial\bin\Debug\ModeloParcial.dll
+D:\Claret\prog2labo2\Claret.Nahuel\ModeloParcial\bin\Debug\ModeloParcial.pdb
+D:\Claret\prog2labo2\Claret.Nahuel\ModeloParcial\obj\Debug\ModeloParcial.dll
+D:\Claret\prog2labo2\Claret.Nahuel\ModeloParcial\obj\Debug\ModeloParcial.pdb
