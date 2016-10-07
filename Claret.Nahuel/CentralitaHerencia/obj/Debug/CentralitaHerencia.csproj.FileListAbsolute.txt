@@ -1,0 +1,6 @@
+D:\Claret\prog2labo2\Claret.Nahuel\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+D:\Claret\prog2labo2\Claret.Nahuel\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
+D:\Claret\prog2labo2\Claret.Nahuel\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+D:\Claret\prog2labo2\Claret.Nahuel\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+D:\Claret\prog2labo2\Claret.Nahuel\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+D:\Claret\prog2labo2\Claret.Nahuel\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
