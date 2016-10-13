@@ -1,0 +1,5 @@
+D:\Claret\prog2labo2\Claret.Nahuel\Clase11\obj\Debug\Clase11.csprojResolveAssemblyReference.cache
+D:\Claret\prog2labo2\Claret.Nahuel\Clase11\bin\Debug\Clase11.dll
+D:\Claret\prog2labo2\Claret.Nahuel\Clase11\bin\Debug\Clase11.pdb
+D:\Claret\prog2labo2\Claret.Nahuel\Clase11\obj\Debug\Clase11.dll
+D:\Claret\prog2labo2\Claret.Nahuel\Clase11\obj\Debug\Clase11.pdb
