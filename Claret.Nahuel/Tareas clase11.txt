@@ -1,0 +1,6 @@
+metodo de clase exception
+metodo de instancia exception
+constructor exception
+propiedad exeption
+
+main captura todo loq ue viene 
