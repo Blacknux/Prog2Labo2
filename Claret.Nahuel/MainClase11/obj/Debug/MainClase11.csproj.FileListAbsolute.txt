@@ -6,3 +6,6 @@ D:\Claret\prog2labo2\Claret.Nahuel\MainClase11\bin\Debug\Clase11.dll
 D:\Claret\prog2labo2\Claret.Nahuel\MainClase11\bin\Debug\Clase11.pdb
 D:\Claret\prog2labo2\Claret.Nahuel\MainClase11\obj\Debug\MainClase11.exe
 D:\Claret\prog2labo2\Claret.Nahuel\MainClase11\obj\Debug\MainClase11.pdb
+D:\Claret puto Con tu c___ lo disfruto\prog2labo2\Claret.Nahuel\MainClase11\bin\Debug\MainClase11.exe.config
+D:\Claret puto Con tu c___ lo disfruto\prog2labo2\Claret.Nahuel\MainClase11\obj\Debug\MainClase11.exe
+D:\Claret puto Con tu c___ lo disfruto\prog2labo2\Claret.Nahuel\MainClase11\obj\Debug\MainClase11.pdb

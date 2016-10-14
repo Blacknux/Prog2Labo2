@@ -10,3 +10,6 @@ D:\Claret.Nahuel\Proyecto01\obj\Debug\Proyecto01.pdb
 D:\Claret.Nahuel\Proyecto01\bin\Debug\Proyecto01.exe
 D:\Claret.Nahuel\Proyecto01\bin\Debug\Proyecto01.pdb
 D:\Claret.Nahuel\Proyecto01\obj\Debug\Proyecto01.csprojResolveAssemblyReference.cache
+D:\Claret puto Con tu c___ lo disfruto\prog2labo2\Claret.Nahuel\Proyecto01\bin\Debug\Proyecto01.exe.config
+D:\Claret puto Con tu c___ lo disfruto\prog2labo2\Claret.Nahuel\Proyecto01\obj\Debug\Proyecto01.exe
+D:\Claret puto Con tu c___ lo disfruto\prog2labo2\Claret.Nahuel\Proyecto01\obj\Debug\Proyecto01.pdb
