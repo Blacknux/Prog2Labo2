@@ -1,0 +1,6 @@
+D:\se comio a tu hna esta cola\prog2labo2\Claret.Nahuel\Clase17Generics\obj\Debug\Clase17Generics.csprojResolveAssemblyReference.cache
+D:\se comio a tu hna esta cola\prog2labo2\Claret.Nahuel\Clase17Generics\bin\Debug\Clase17Generics.exe.config
+D:\se comio a tu hna esta cola\prog2labo2\Claret.Nahuel\Clase17Generics\bin\Debug\Clase17Generics.exe
+D:\se comio a tu hna esta cola\prog2labo2\Claret.Nahuel\Clase17Generics\bin\Debug\Clase17Generics.pdb
+D:\se comio a tu hna esta cola\prog2labo2\Claret.Nahuel\Clase17Generics\obj\Debug\Clase17Generics.exe
+D:\se comio a tu hna esta cola\prog2labo2\Claret.Nahuel\Clase17Generics\obj\Debug\Clase17Generics.pdb
