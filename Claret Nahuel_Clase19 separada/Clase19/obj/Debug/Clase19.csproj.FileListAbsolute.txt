@@ -1,0 +1,5 @@
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Claret Nahuel_Clase19 separada\Clase19\bin\Debug\Clase19.dll
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Claret Nahuel_Clase19 separada\Clase19\bin\Debug\Clase19.pdb
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Claret Nahuel_Clase19 separada\Clase19\obj\Debug\Clase19.dll
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Claret Nahuel_Clase19 separada\Clase19\obj\Debug\Clase19.pdb
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Claret Nahuel_Clase19 separada\Clase19\obj\Debug\Clase19.csprojResolveAssemblyReference.cache

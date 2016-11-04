@@ -1,0 +1,8 @@
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Claret Nahuel_Clase19 separada\Clase19_main\obj\Debug\Clase19_main.csprojResolveAssemblyReference.cache
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Claret Nahuel_Clase19 separada\Clase19_main\bin\Debug\Clase19_main.exe.config
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Claret Nahuel_Clase19 separada\Clase19_main\bin\Debug\Clase19_main.exe
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Claret Nahuel_Clase19 separada\Clase19_main\bin\Debug\Clase19_main.pdb
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Claret Nahuel_Clase19 separada\Clase19_main\bin\Debug\Clase19.dll
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Claret Nahuel_Clase19 separada\Clase19_main\bin\Debug\Clase19.pdb
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Claret Nahuel_Clase19 separada\Clase19_main\obj\Debug\Clase19_main.exe
+c:\users\alumno\Documents\Visual Studio 2012\Projects\Claret Nahuel_Clase19 separada\Clase19_main\obj\Debug\Clase19_main.pdb
