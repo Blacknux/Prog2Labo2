@@ -10,3 +10,6 @@ D:\se comio a tu hna esta cola\prog2labo2\Claret.Nahuel\Ejercicio15Campus\obj\De
 D:\se comio a tu hna esta cola\prog2labo2\Claret.Nahuel\Ejercicio15Campus\bin\Debug\Ejercicio15Campus.exe
 D:\se comio a tu hna esta cola\prog2labo2\Claret.Nahuel\Ejercicio15Campus\bin\Debug\Ejercicio15Campus.pdb
 D:\se comio a tu hna esta cola\prog2labo2\Claret.Nahuel\Ejercicio15Campus\obj\Debug\Ejercicio15Campus.csprojResolveAssemblyReference.cache
+D:\Claret\prog2labo2\Claret.Nahuel\Ejercicio15Campus\bin\Debug\Ejercicio15Campus.exe.config
+D:\Claret\prog2labo2\Claret.Nahuel\Ejercicio15Campus\obj\Debug\Ejercicio15Campus.exe
+D:\Claret\prog2labo2\Claret.Nahuel\Ejercicio15Campus\obj\Debug\Ejercicio15Campus.pdb
