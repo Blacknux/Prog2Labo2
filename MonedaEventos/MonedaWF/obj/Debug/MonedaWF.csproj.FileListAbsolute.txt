@@ -1,0 +1,12 @@
+C:\Users\Knux\Documents\Learning C#\MonedaEventos\MonedaWF\bin\Debug\MonedaWF.exe.config
+C:\Users\Knux\Documents\Learning C#\MonedaEventos\MonedaWF\obj\Debug\MonedaWF.csprojResolveAssemblyReference.cache
+C:\Users\Knux\Documents\Learning C#\MonedaEventos\MonedaWF\obj\Debug\MonedaWF.Form1.resources
+C:\Users\Knux\Documents\Learning C#\MonedaEventos\MonedaWF\obj\Debug\MonedaWF.Properties.Resources.resources
+C:\Users\Knux\Documents\Learning C#\MonedaEventos\MonedaWF\obj\Debug\MonedaWF.csproj.GenerateResource.Cache
+C:\Users\Knux\Documents\Learning C#\MonedaEventos\MonedaWF\bin\Debug\MonedaWF.exe
+C:\Users\Knux\Documents\Learning C#\MonedaEventos\MonedaWF\bin\Debug\MonedaWF.pdb
+C:\Users\Knux\Documents\Learning C#\MonedaEventos\MonedaWF\bin\Debug\ClassLibrary1.dll
+C:\Users\Knux\Documents\Learning C#\MonedaEventos\MonedaWF\bin\Debug\ClassLibrary1.pdb
+C:\Users\Knux\Documents\Learning C#\MonedaEventos\MonedaWF\obj\Debug\MonedaWF.exe
+C:\Users\Knux\Documents\Learning C#\MonedaEventos\MonedaWF\obj\Debug\MonedaWF.pdb
+C:\Users\Knux\Documents\Learning C#\MonedaEventos\MonedaWF\obj\Debug\MonedaWF.Resultados.resources

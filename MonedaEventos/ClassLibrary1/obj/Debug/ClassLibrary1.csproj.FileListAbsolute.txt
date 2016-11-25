@@ -1,0 +1,5 @@
+C:\Users\Knux\Documents\Learning C#\MonedaEventos\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\Knux\Documents\Learning C#\MonedaEventos\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Knux\Documents\Learning C#\MonedaEventos\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Knux\Documents\Learning C#\MonedaEventos\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Knux\Documents\Learning C#\MonedaEventos\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
